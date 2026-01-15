@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyD7FPnjim2kxQxd5t9O5HfDVlP9mlduXw4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>847919163596</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.subnetrush.subnetRush</string>
+	<key>PROJECT_ID</key>
+	<string>subnet-rush-v2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>subnet-rush-v2.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:847919163596:ios:7b237ab1689e7c666b3a69</string>
+</dict>
+</plist>

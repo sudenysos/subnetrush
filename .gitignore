@@ -1,0 +1,14 @@
+# Standart Flutter Gizleme Listesi
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+.vscode/
+*.iml
+
+# Mac kullanıyorsanız oluşan gereksiz dosya
+.DS_Store

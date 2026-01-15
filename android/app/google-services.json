@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880860730674",
+    "project_id": "subnet-rush-v3",
+    "storage_bucket": "subnet-rush-v3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880860730674:android:9e433f4c69620e9efd332b",
+        "android_client_info": {
+          "package_name": "com.subnetrush.subnet_rush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0I9kLQbKpII4anSAuz5njugtFCmedQd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
