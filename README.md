@@ -1,7 +1,7 @@
 # SubnetRush
 
 ## Proje Tanıtım Videosu
-[Video]([https://youtu.be/Q_Xzk5Ok_4Q](https://youtu.be/VALxgrnA6Yo?si=fp-QiL8_Od-V_jzv))
+[Video](https://youtu.be/Q_Xzk5Ok_4Q](https://youtu.be/VALxgrnA6Yo?si=fp-QiL8_Od-V_jzv)
 
 ---
 
